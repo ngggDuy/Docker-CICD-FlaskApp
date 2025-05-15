@@ -15,7 +15,7 @@ A simple DevOps-ready web app built with **Flask**, containerized using **Docker
 ---
 
 ## 📁 Project Structure
-
+```
 devops-demo/
 ├── app/ # Flask app source
 │ └── app.py
@@ -26,7 +26,7 @@ devops-demo/
 ├── Dockerfile
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🐳 Run Locally with Docker
