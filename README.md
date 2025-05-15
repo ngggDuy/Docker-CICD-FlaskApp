@@ -34,3 +34,11 @@ devops-demo/
 ```bash
 docker build -t devops-demo .
 docker run -p 5000:5000 devops-demo
+```
+
+## 🌍 Live Demo
+
+[https://docker-cicd-flaskapp.onrender.com/](https://docker-cicd-flaskapp.onrender.com/)
+
+This app is automatically deployed on every push to the `main` branch using [Render](https://render.com).
+
